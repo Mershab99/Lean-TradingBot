@@ -31,5 +31,5 @@ setup(
      url='https://www.quantconnect.com/',
      license=license,
      packages = find_packages(exclude=('tests', 'docs')),
-     install_requires=['matplotlib', 'pandas', 'requests']
+     install_requires=['matplotlib', 'pandas', 'requests','sqlalchemy', 'pika','influxdb','python-dotenv','python-keycloak']
      )

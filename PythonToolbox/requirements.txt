@@ -1,0 +1,9 @@
+wheel
+setuptools
+twine
+sqlalchemy
+pika
+influxdb
+python-dotenv
+python-keycloak
+kafka-python
